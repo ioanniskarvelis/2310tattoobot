@@ -1,6 +1,9 @@
 "use client";
 
 import { ChangeEvent, useMemo, useState } from "react";
+import { VisionAnalysisView } from "@/components/VisionAnalysisView";
+
+type VisionAnalysis = Record<string, unknown>;
 
 type ApiResponse = {
   pricing?: {
@@ -19,7 +22,9 @@ type ApiResponse = {
     similarity: number;
     category_primary?: string | null;
     natural_size_category?: string | null;
+    vision_analysis?: VisionAnalysis | null;
   }>;
+  vision_analysis?: VisionAnalysis | null;
   error?: string;
   details?: string;
 };
@@ -101,20 +106,30 @@ export default function Home() {
 
         <div className="rounded-xl border border-zinc-200 bg-white p-5 shadow-sm">
           <h2 className="text-lg font-medium">Prediction</h2>
-          {!result?.pricing ? (
+          {!result?.pricing && !result?.vision_analysis ? (
             <p className="mt-3 text-sm text-zinc-500">No prediction yet.</p>
           ) : (
-            <div className="mt-4 space-y-2 text-sm">
-              <p>
-                Suggested price:{" "}
-                <span className="font-semibold">
-                  {result.pricing.suggested_price ? `€${result.pricing.suggested_price}` : "Manual review"}
-                </span>
-              </p>
-              <p>Range: {result.pricing.price_range ?? "N/A"}</p>
-              <p>Confidence: {result.pricing.confidence}</p>
-              <p>Based on: {result.pricing.based_on} records</p>
-              <p>Top similarity: {result.pricing.top_similarity}</p>
+            <div className="mt-4 space-y-4">
+              {result.pricing && (
+                <div className="space-y-2 rounded-lg bg-zinc-50 p-3 text-sm">
+                  <p>
+                    Suggested price:{" "}
+                    <span className="font-semibold">
+                      {result.pricing.suggested_price ? `€${result.pricing.suggested_price}` : "Manual review"}
+                    </span>
+                  </p>
+                  <p>Range: {result.pricing.price_range ?? "N/A"}</p>
+                  <p>Confidence: {result.pricing.confidence}</p>
+                  <p>Based on: {result.pricing.based_on} records</p>
+                  <p>Top similarity: {result.pricing.top_similarity}</p>
+                </div>
+              )}
+              {result.vision_analysis && (
+                <div className="max-h-96 overflow-y-auto rounded-lg border border-zinc-200 p-3">
+                  <h3 className="mb-3 text-sm font-medium text-zinc-700">Vision Analysis (Full JSON)</h3>
+                  <VisionAnalysisView visionAnalysis={result.vision_analysis} compact={false} />
+                </div>
+              )}
             </div>
           )}
         </div>
@@ -127,7 +142,10 @@ export default function Home() {
         ) : (
           <div className="mt-4 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
             {result.top_matches.map((match, index) => (
-              <article key={`${match.record_id ?? "match"}-${index}`} className="rounded-lg border border-zinc-200 p-3">
+              <article
+                key={`${match.record_id ?? "match"}-${index}`}
+                className="flex flex-col rounded-lg border border-zinc-200 p-3"
+              >
                 {match.thumbnail_url ? (
                   // eslint-disable-next-line @next/next/no-img-element
                   <img
@@ -140,11 +158,18 @@ export default function Home() {
                     No preview
                   </div>
                 )}
-                <div className="mt-3 space-y-1 text-xs">
-                  <p className="font-medium">Price: {match.final_price ? `€${match.final_price}` : "N/A"}</p>
-                  <p>Similarity: {match.similarity.toFixed(3)}</p>
-                  <p>Style: {match.category_primary ?? "unknown"}</p>
-                  <p>Size: {match.natural_size_category ?? "unknown"}</p>
+                <div className="mt-3 flex flex-1 flex-col gap-2">
+                  <div className="space-y-0.5 text-xs">
+                    <p className="font-medium">Price: {match.final_price ? `€${match.final_price}` : "N/A"}</p>
+                    <p>Similarity: {match.similarity.toFixed(3)}</p>
+                    <p>Style: {match.category_primary ?? "unknown"}</p>
+                    <p>Size: {match.natural_size_category ?? "unknown"}</p>
+                  </div>
+                  {match.vision_analysis && (
+                    <div className="mt-2 max-h-48 overflow-y-auto rounded border border-zinc-100 bg-zinc-50/50 p-2">
+                      <VisionAnalysisView visionAnalysis={match.vision_analysis} compact />
+                    </div>
+                  )}
                 </div>
               </article>
             ))}
