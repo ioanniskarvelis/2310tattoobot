@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Arian Nikolli"
+    },
+    {
+      "name": "2310tattoo studio by Christina"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Arian Nikolli",
+      "timestamp_ms": 1767461416020,
+      "content": "\u00f0\u009f\u0094\u00a5",
+      "share": {
+        "link": "https://www.instagram.com/stories/2310tattoo/3585359347656450651"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Arian Nikolli",
+  "is_still_participant": true,
+  "thread_path": "inbox/ariannikolli_1757313555672168",
+  "magic_words": [
+    
+  ]
+}

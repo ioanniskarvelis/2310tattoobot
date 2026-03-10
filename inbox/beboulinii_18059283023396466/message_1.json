@@ -1,0 +1,31 @@
+{
+  "participants": [
+    {
+      "name": "beboulinii"
+    },
+    {
+      "name": "2310tattoo studio by Christina"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "2310tattoo studio by Christina",
+      "timestamp_ms": 1769618202173,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "2310tattoo studio by Christina",
+      "timestamp_ms": 1769618201936,
+      "content": "You messaged beboulinii because they followed your account.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "beboulinii",
+  "is_still_participant": true,
+  "thread_path": "inbox/beboulinii_18059283023396466",
+  "magic_words": [
+    
+  ]
+}

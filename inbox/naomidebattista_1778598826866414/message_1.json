@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Naomi Debattista"
+    },
+    {
+      "name": "2310tattoo studio by Christina"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Naomi Debattista",
+      "timestamp_ms": 1758556202918,
+      "share": {
+        "link": "https://www.instagram.com/stories/naomidebattista/3727361431508435117"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Naomi Debattista",
+      "timestamp_ms": 1758555827765,
+      "share": {
+        "link": "https://www.instagram.com/stories/naomidebattista/3727358853882146214"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Naomi Debattista",
+  "is_still_participant": true,
+  "thread_path": "inbox/naomidebattista_1778598826866414",
+  "magic_words": [
+    
+  ]
+}

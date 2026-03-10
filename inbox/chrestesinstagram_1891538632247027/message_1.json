@@ -1,0 +1,31 @@
+{
+  "participants": [
+    {
+      "name": "\u00ce\u00a7\u00cf\u0081\u00ce\u00ae\u00cf\u0083\u00cf\u0084\u00ce\u00b7\u00cf\u0082 Instagram"
+    },
+    {
+      "name": "2310tattoo studio by Christina"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "2310tattoo studio by Christina",
+      "timestamp_ms": 1769618990073,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "2310tattoo studio by Christina",
+      "timestamp_ms": 1769618989686,
+      "content": "You messaged this user because they followed your account.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "\u00ce\u00a7\u00cf\u0081\u00ce\u00ae\u00cf\u0083\u00cf\u0084\u00ce\u00b7\u00cf\u0082 Instagram",
+  "is_still_participant": true,
+  "thread_path": "inbox/chrestesinstagram_1891538632247027",
+  "magic_words": [
+    
+  ]
+}

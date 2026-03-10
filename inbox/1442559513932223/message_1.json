@@ -1,0 +1,31 @@
+{
+  "participants": [
+    {
+      "name": "\u00c9\u00b4\u00e1\u00b4\u0087\u00c9\u00b4\u00e1\u00b4\u0080\u00e1\u00b4\u008b\u00c9\u00aa \u00e1\u00b4\u008b\u00e1\u00b4\u0080\u00ca\u0080.\u00f0\u009f\u0092\u0095"
+    },
+    {
+      "name": "2310tattoo studio by Christina"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "2310tattoo studio by Christina",
+      "timestamp_ms": 1769766308385,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "2310tattoo studio by Christina",
+      "timestamp_ms": 1769766308113,
+      "content": "You messaged miss.karamvalasi because they followed your account.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "\u00c9\u00b4\u00e1\u00b4\u0087\u00c9\u00b4\u00e1\u00b4\u0080\u00e1\u00b4\u008b\u00c9\u00aa \u00e1\u00b4\u008b\u00e1\u00b4\u0080\u00ca\u0080.\u00f0\u009f\u0092\u0095",
+  "is_still_participant": true,
+  "thread_path": "inbox/1442559513932223",
+  "magic_words": [
+    
+  ]
+}

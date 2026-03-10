@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Nadia G Konstantina"
+    },
+    {
+      "name": "2310tattoo studio by Christina"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Nadia G Konstantina",
+      "timestamp_ms": 1764682096133,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "share": {
+        "link": "https://www.instagram.com/stories/2310tattoo/3778703328159733792"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Nadia G Konstantina",
+  "is_still_participant": true,
+  "thread_path": "inbox/nadiagkonstantina_1121170052604962",
+  "magic_words": [
+    
+  ]
+}

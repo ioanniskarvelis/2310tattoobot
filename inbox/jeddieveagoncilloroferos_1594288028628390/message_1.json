@@ -1,0 +1,52 @@
+{
+  "participants": [
+    {
+      "name": "Jeddieve Agoncillo Roferos"
+    },
+    {
+      "name": "2310tattoo studio by Christina"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jeddieve Agoncillo Roferos",
+      "timestamp_ms": 1772660542563,
+      "content": "Sure lets talk when i get back",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0090\u00bc",
+          "actor": "2310tattoo studio by Christina"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "2310tattoo studio by Christina",
+      "timestamp_ms": 1772659996371,
+      "content": "Good evening, your work is truly incredible. Unfortunately, we don\u00e2\u0080\u0099t currently have the clientele to support the specific style you do. When you return to Greece, send us a message so we can talk in person and maybe try some promotion and see how it goes.\n\nOf course, if you already have your own clients, we can arrange for you to have a spot at the studio whenever you want to tattoo them.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jeddieve Agoncillo Roferos",
+      "timestamp_ms": 1772633425760,
+      "content": "Can if you have space i would love to work with you cause my house is near in your place but now currently im in australia i work with celebrity ink",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jeddieve Agoncillo Roferos",
+      "timestamp_ms": 1772633372248,
+      "content": "Hi are you looking for resident artist?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jeddieve Agoncillo Roferos",
+  "is_still_participant": true,
+  "thread_path": "inbox/jeddieveagoncilloroferos_1594288028628390",
+  "magic_words": [
+    
+  ]
+}

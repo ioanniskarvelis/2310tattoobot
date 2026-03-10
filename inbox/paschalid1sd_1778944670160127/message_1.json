@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "paschalid1s.d"
+    },
+    {
+      "name": "2310tattoo studio by Christina"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "paschalid1s.d",
+      "timestamp_ms": 1769334106140,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/paschalid1sd_1778944670160127/photos/813700031687192.jpg",
+          "creation_timestamp": 1769334104
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "paschalid1s.d",
+  "is_still_participant": true,
+  "thread_path": "inbox/paschalid1sd_1778944670160127",
+  "magic_words": [
+    
+  ]
+}

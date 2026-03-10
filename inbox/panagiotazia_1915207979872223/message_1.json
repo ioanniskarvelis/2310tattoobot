@@ -1,0 +1,31 @@
+{
+  "participants": [
+    {
+      "name": "\u00ce\u00a0\u00ce\u00b1\u00ce\u00bd\u00ce\u00b1\u00ce\u00b3\u00ce\u00b9\u00cf\u008e\u00cf\u0084\u00ce\u00b1 \u00ce\u0096\u00ce\u00af\u00ce\u00b1"
+    },
+    {
+      "name": "2310tattoo studio by Christina"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "2310tattoo studio by Christina",
+      "timestamp_ms": 1769862658396,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "2310tattoo studio by Christina",
+      "timestamp_ms": 1769862658008,
+      "content": "You messaged sympiknwmenogala because they followed your account.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "\u00ce\u00a0\u00ce\u00b1\u00ce\u00bd\u00ce\u00b1\u00ce\u00b3\u00ce\u00b9\u00cf\u008e\u00cf\u0084\u00ce\u00b1 \u00ce\u0096\u00ce\u00af\u00ce\u00b1",
+  "is_still_participant": true,
+  "thread_path": "inbox/panagiotazia_1915207979872223",
+  "magic_words": [
+    
+  ]
+}

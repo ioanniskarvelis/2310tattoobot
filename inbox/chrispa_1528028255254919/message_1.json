@@ -1,0 +1,31 @@
+{
+  "participants": [
+    {
+      "name": "\u00f0\u009d\u0090\u0082\u00f0\u009d\u0090\u00a1\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00a9\u00f0\u009d\u0090\u009a"
+    },
+    {
+      "name": "2310tattoo studio by Christina"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "2310tattoo studio by Christina",
+      "timestamp_ms": 1769969655334,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "2310tattoo studio by Christina",
+      "timestamp_ms": 1769969655138,
+      "content": "You messaged _papanikolaouuu_ because they followed your account.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "\u00f0\u009d\u0090\u0082\u00f0\u009d\u0090\u00a1\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u00a2\u00f0\u009d\u0090\u00ac\u00f0\u009d\u0090\u00a9\u00f0\u009d\u0090\u009a",
+  "is_still_participant": true,
+  "thread_path": "inbox/chrispa_1528028255254919",
+  "magic_words": [
+    
+  ]
+}

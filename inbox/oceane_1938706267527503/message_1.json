@@ -1,0 +1,45 @@
+{
+  "participants": [
+    {
+      "name": "\u00f0\u009d\u0095\u00ba\u00f0\u009d\u0096\u0088\u00f0\u009d\u0096\u008a\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0093\u00f0\u009d\u0096\u008a \u00f0\u009f\u008c\u00b8"
+    },
+    {
+      "name": "2310tattoo studio by Christina"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "\u00f0\u009d\u0095\u00ba\u00f0\u009d\u0096\u0088\u00f0\u009d\u0096\u008a\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0093\u00f0\u009d\u0096\u008a \u00f0\u009f\u008c\u00b8",
+      "timestamp_ms": 1771883373138,
+      "content": "Reacted \u00f0\u009f\u00a4\u008d to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "2310tattoo studio by Christina",
+      "timestamp_ms": 1771882542776,
+      "content": "Bonsoir, oui nous faisons des flash tattoos. Envoyez-nous n\u00e2\u0080\u0099importe quel motif qui vous int\u00c3\u00a9resse afin que nous puissions vous donner le prix. S\u00e2\u0080\u0099il vous pla\u00c3\u00aet, si possible, \u00c3\u00a9crivez-nous en anglais, car nous utilisons une traduction et nous ne savons pas \u00c3\u00a0 quel point elle est correcte dans votre langue.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u00a4\u008d",
+          "actor": "\u00f0\u009d\u0095\u00ba\u00f0\u009d\u0096\u0088\u00f0\u009d\u0096\u008a\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0093\u00f0\u009d\u0096\u008a \u00f0\u009f\u008c\u00b8"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0095\u00ba\u00f0\u009d\u0096\u0088\u00f0\u009d\u0096\u008a\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0093\u00f0\u009d\u0096\u008a \u00f0\u009f\u008c\u00b8",
+      "timestamp_ms": 1771871279582,
+      "content": "Bonjour, faites vous des flash tattoo ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "\u00f0\u009d\u0095\u00ba\u00f0\u009d\u0096\u0088\u00f0\u009d\u0096\u008a\u00f0\u009d\u0096\u0086\u00f0\u009d\u0096\u0093\u00f0\u009d\u0096\u008a \u00f0\u009f\u008c\u00b8",
+  "is_still_participant": true,
+  "thread_path": "inbox/oceane_1938706267527503",
+  "magic_words": [
+    
+  ]
+}

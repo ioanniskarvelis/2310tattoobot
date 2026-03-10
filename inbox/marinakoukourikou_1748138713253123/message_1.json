@@ -1,0 +1,27 @@
+{
+  "participants": [
+    {
+      "name": "Marina Koukourikou\u00f0\u009f\u00a4\u008d\u00e2\u0099\u008c\u00ef\u00b8\u008f\u00f0\u009f\u00a7\u00bf\u00f0\u009f\u00a6\u009a"
+    },
+    {
+      "name": "2310tattoo studio by Christina"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Marina Koukourikou\u00f0\u009f\u00a4\u008d\u00e2\u0099\u008c\u00ef\u00b8\u008f\u00f0\u009f\u00a7\u00bf\u00f0\u009f\u00a6\u009a",
+      "timestamp_ms": 1757585577046,
+      "share": {
+        "link": "https://www.instagram.com/stories/2310tattoo/3718665777110060218"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Marina Koukourikou\u00f0\u009f\u00a4\u008d\u00e2\u0099\u008c\u00ef\u00b8\u008f\u00f0\u009f\u00a7\u00bf\u00f0\u009f\u00a6\u009a",
+  "is_still_participant": true,
+  "thread_path": "inbox/marinakoukourikou_1748138713253123",
+  "magic_words": [
+    
+  ]
+}

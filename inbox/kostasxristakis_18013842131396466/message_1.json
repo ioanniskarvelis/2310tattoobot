@@ -1,0 +1,31 @@
+{
+  "participants": [
+    {
+      "name": "Kostas Xristakis"
+    },
+    {
+      "name": "2310tattoo studio by Christina"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "2310tattoo studio by Christina",
+      "timestamp_ms": 1769970285132,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "2310tattoo studio by Christina",
+      "timestamp_ms": 1769970284977,
+      "content": "You messaged kostas.king.1 because they followed your account.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Kostas Xristakis",
+  "is_still_participant": true,
+  "thread_path": "inbox/kostasxristakis_18013842131396466",
+  "magic_words": [
+    
+  ]
+}

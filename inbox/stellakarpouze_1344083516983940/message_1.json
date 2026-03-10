@@ -1,0 +1,31 @@
+{
+  "participants": [
+    {
+      "name": "\u00ce\u00a3\u00cf\u0084\u00ce\u00ad\u00ce\u00bb\u00ce\u00bb\u00ce\u00b1 \u00ce\u009a\u00ce\u00b1\u00cf\u0081\u00cf\u0080\u00ce\u00bf\u00cf\u008d\u00ce\u00b6\u00ce\u00b7"
+    },
+    {
+      "name": "2310tattoo studio by Christina"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "2310tattoo studio by Christina",
+      "timestamp_ms": 1769773951224,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "2310tattoo studio by Christina",
+      "timestamp_ms": 1769773950994,
+      "content": "You messaged stella_karpouzi because they followed your account.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "\u00ce\u00a3\u00cf\u0084\u00ce\u00ad\u00ce\u00bb\u00ce\u00bb\u00ce\u00b1 \u00ce\u009a\u00ce\u00b1\u00cf\u0081\u00cf\u0080\u00ce\u00bf\u00cf\u008d\u00ce\u00b6\u00ce\u00b7",
+  "is_still_participant": true,
+  "thread_path": "inbox/stellakarpouze_1344083516983940",
+  "magic_words": [
+    
+  ]
+}

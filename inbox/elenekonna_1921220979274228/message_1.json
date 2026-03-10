@@ -1,0 +1,31 @@
+{
+  "participants": [
+    {
+      "name": "\u00ce\u0095\u00ce\u00bb\u00ce\u00ad\u00ce\u00bd\u00ce\u00b7 \u00ce\u009a\u00cf\u0089\u00ce\u00bd/\u00ce\u00bd\u00ce\u00b1"
+    },
+    {
+      "name": "2310tattoo studio by Christina"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "2310tattoo studio by Christina",
+      "timestamp_ms": 1769659331346,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "2310tattoo studio by Christina",
+      "timestamp_ms": 1769659331068,
+      "content": "You messaged konstantinaa_v because they followed your account.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "\u00ce\u0095\u00ce\u00bb\u00ce\u00ad\u00ce\u00bd\u00ce\u00b7 \u00ce\u009a\u00cf\u0089\u00ce\u00bd/\u00ce\u00bd\u00ce\u00b1",
+  "is_still_participant": true,
+  "thread_path": "inbox/elenekonna_1921220979274228",
+  "magic_words": [
+    
+  ]
+}

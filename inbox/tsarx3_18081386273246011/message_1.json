@@ -1,0 +1,31 @@
+{
+  "participants": [
+    {
+      "name": "tsarx <3"
+    },
+    {
+      "name": "2310tattoo studio by Christina"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "2310tattoo studio by Christina",
+      "timestamp_ms": 1769699544751,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "2310tattoo studio by Christina",
+      "timestamp_ms": 1769699544346,
+      "content": "You messaged ts4rturtur because they followed your account.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "tsarx <3",
+  "is_still_participant": true,
+  "thread_path": "inbox/tsarx3_18081386273246011",
+  "magic_words": [
+    
+  ]
+}

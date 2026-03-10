@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Eleni Kanaki"
+    },
+    {
+      "name": "2310tattoo studio by Christina"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Eleni Kanaki",
+      "timestamp_ms": 1772027215973,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/elenikanaki_841963847200870/photos/1225311322587576"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Eleni Kanaki",
+      "timestamp_ms": 1772026315196,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/elenikanaki_841963847200870/photos/917778724135857"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Eleni Kanaki",
+  "is_still_participant": true,
+  "thread_path": "inbox/elenikanaki_841963847200870",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "participants": [
+    {
+      "name": "bekembauer_shp"
+    },
+    {
+      "name": "2310tattoo studio by Christina"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "2310tattoo studio by Christina",
+      "timestamp_ms": 1769966276875,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "2310tattoo studio by Christina",
+      "timestamp_ms": 1769966276787,
+      "content": "You messaged bekembauer_shp because they followed your account.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "bekembauer_shp",
+  "is_still_participant": true,
+  "thread_path": "inbox/bekembauer_shp_497033904910700",
+  "magic_words": [
+    
+  ]
+}

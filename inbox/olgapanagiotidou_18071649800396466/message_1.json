@@ -1,0 +1,31 @@
+{
+  "participants": [
+    {
+      "name": "Olga Panagiotidou"
+    },
+    {
+      "name": "2310tattoo studio by Christina"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "2310tattoo studio by Christina",
+      "timestamp_ms": 1769757785327,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "2310tattoo studio by Christina",
+      "timestamp_ms": 1769757784816,
+      "content": "You messaged olgapanagiotidou93 because they followed your account.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Olga Panagiotidou",
+  "is_still_participant": true,
+  "thread_path": "inbox/olgapanagiotidou_18071649800396466",
+  "magic_words": [
+    
+  ]
+}

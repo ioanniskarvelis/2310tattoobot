@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+
+# Pipeline outputs
+pipeline/parsed_pairs.jsonl
+pipeline/tattoo_database.jsonl
+pipeline/skips.log
+pipeline/checkpoint.json
+pipeline/skipped_conversations.txt
+
+# Next.js
+web/node_modules/
+web/.next/
+web/out/
+
+# Env files
+web/.env
+web/.env.local
+!web/.env.example

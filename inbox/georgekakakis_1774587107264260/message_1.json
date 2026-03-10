@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "George Kakakis"
+    },
+    {
+      "name": "2310tattoo studio by Christina"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "George Kakakis",
+      "timestamp_ms": 1763882812843,
+      "content": "\u00f0\u009f\u0094\u00a5",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "George Kakakis",
+  "is_still_participant": true,
+  "thread_path": "inbox/georgekakakis_1774587107264260",
+  "magic_words": [
+    
+  ]
+}

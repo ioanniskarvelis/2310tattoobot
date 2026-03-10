@@ -1,0 +1,31 @@
+{
+  "participants": [
+    {
+      "name": "\u00ce\u009a\u00cf\u0089\u00ce\u00bd\u00cf\u0083\u00cf\u0084\u00ce\u00b1\u00ce\u00bd\u00cf\u0084\u00ce\u00af\u00ce\u00bd\u00ce\u00b1 \u00ce\u0099\u00cf\u0089\u00ce\u00b1\u00ce\u00bd\u00ce\u00bd\u00ce\u00af\u00ce\u00b4\u00ce\u00bf\u00cf\u0085\u00e2\u0098\u0081\u00ef\u00b8\u008f"
+    },
+    {
+      "name": "2310tattoo studio by Christina"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "2310tattoo studio by Christina",
+      "timestamp_ms": 1769968948404,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "2310tattoo studio by Christina",
+      "timestamp_ms": 1769968948181,
+      "content": "You messaged konna_ioannidou because they followed your account.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "\u00ce\u009a\u00cf\u0089\u00ce\u00bd\u00cf\u0083\u00cf\u0084\u00ce\u00b1\u00ce\u00bd\u00cf\u0084\u00ce\u00af\u00ce\u00bd\u00ce\u00b1 \u00ce\u0099\u00cf\u0089\u00ce\u00b1\u00ce\u00bd\u00ce\u00bd\u00ce\u00af\u00ce\u00b4\u00ce\u00bf\u00cf\u0085\u00e2\u0098\u0081\u00ef\u00b8\u008f",
+  "is_still_participant": true,
+  "thread_path": "inbox/konstantinaioannidou_1764079791658559",
+  "magic_words": [
+    
+  ]
+}

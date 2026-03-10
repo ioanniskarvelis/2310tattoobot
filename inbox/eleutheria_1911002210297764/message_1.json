@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "\u00ce\u00b5\u00ce\u00bb\u00ce\u00b5\u00cf\u0085\u00ce\u00b8\u00ce\u00b5\u00cf\u0081\u00ce\u00b9\u00ce\u00b1"
+    },
+    {
+      "name": "2310tattoo studio by Christina"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "\u00ce\u00b5\u00ce\u00bb\u00ce\u00b5\u00cf\u0085\u00ce\u00b8\u00ce\u00b5\u00cf\u0081\u00ce\u00b9\u00ce\u00b1",
+      "timestamp_ms": 1759161153857,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "share": {
+        "link": "https://www.instagram.com/stories/2310tattoo/3731752718042984367"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "\u00ce\u00b5\u00ce\u00bb\u00ce\u00b5\u00cf\u0085\u00ce\u00b8\u00ce\u00b5\u00cf\u0081\u00ce\u00b9\u00ce\u00b1",
+  "is_still_participant": true,
+  "thread_path": "inbox/eleutheria_1911002210297764",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "participants": [
+    {
+      "name": "\u00d0\u009f\u00d0\u00b0\u00d0\u00bf\u00d0\u00b0\u00d0\u00b4\u00d0\u00be\u00d0\u00bf\u00d1\u0083\u00d0\u00bb\u00d0\u00be\u00d1\u0081 \u00d0\u0095\u00d0\u00bb\u00d0\u00b5\u00d0\u00bd\u00d0\u00b0"
+    },
+    {
+      "name": "2310tattoo studio by Christina"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "2310tattoo studio by Christina",
+      "timestamp_ms": 1769915143988,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "2310tattoo studio by Christina",
+      "timestamp_ms": 1769915143513,
+      "content": "You messaged papadopuloselena because they followed your account.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "\u00d0\u009f\u00d0\u00b0\u00d0\u00bf\u00d0\u00b0\u00d0\u00b4\u00d0\u00be\u00d0\u00bf\u00d1\u0083\u00d0\u00bb\u00d0\u00be\u00d1\u0081 \u00d0\u0095\u00d0\u00bb\u00d0\u00b5\u00d0\u00bd\u00d0\u00b0",
+  "is_still_participant": true,
+  "thread_path": "inbox/papadopuloselena_1967871181277120",
+  "magic_words": [
+    
+  ]
+}

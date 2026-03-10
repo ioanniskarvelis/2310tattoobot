@@ -1,0 +1,45 @@
+{
+  "participants": [
+    {
+      "name": "Valeria Slesarchuk"
+    },
+    {
+      "name": "2310tattoo studio by Christina"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "2310tattoo studio by Christina",
+      "timestamp_ms": 1769648661949,
+      "content": "\u00ce\u00a4\u00ce\u00ad\u00ce\u00bb\u00ce\u00b5\u00ce\u00b9\u00ce\u00b1, \u00cf\u0083\u00cf\u0084\u00ce\u00b5\u00ce\u00af\u00ce\u00bb\u00cf\u0084\u00ce\u00b5 \u00ce\u00bc\u00ce\u00b1\u00cf\u0082 \u00cf\u0084\u00ce\u00bf \u00cf\u0084\u00ce\u00b1\u00cf\u0084\u00ce\u00bf\u00cf\u0085\u00ce\u00ac\u00ce\u00b6 \u00cf\u0080\u00ce\u00bf\u00cf\u0085 \u00ce\u00b5\u00ce\u00bd\u00ce\u00b4\u00ce\u00b9\u00ce\u00b1\u00cf\u0086\u00ce\u00ad\u00cf\u0081\u00ce\u00b5\u00cf\u0083\u00cf\u0084\u00ce\u00b5\u00f0\u009f\u0096\u00a4\u00f0\u009f\u0090\u00bc",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Valeria Slesarchuk",
+      "timestamp_ms": 1769648659579,
+      "content": "\u00ce\u0095\u00ce\u00bd\u00ce\u00b4\u00ce\u00b9\u00ce\u00b1\u00cf\u0086\u00ce\u00ad\u00cf\u0081\u00ce\u00bf\u00ce\u00bc\u00ce\u00b1\u00ce\u00b9",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "2310tattoo studio by Christina",
+      "timestamp_ms": 1769648580986,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "2310tattoo studio by Christina",
+      "timestamp_ms": 1769648580644,
+      "content": "You messaged l_slesarchuk because they followed your account.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Valeria Slesarchuk",
+  "is_still_participant": true,
+  "thread_path": "inbox/valeriaslesarchuk_1783320046405203",
+  "magic_words": [
+    
+  ]
+}

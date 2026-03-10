@@ -1,0 +1,51 @@
+{
+  "participants": [
+    {
+      "name": "K o n s t a n t i n a \u00f0\u009f\u008d\u0093"
+    },
+    {
+      "name": "2310tattoo studio by Christina"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "2310tattoo studio by Christina",
+      "timestamp_ms": 1767654520270,
+      "share": {
+        "link": "https://www.instagram.com/stories/2310tattoo/3803684226688920587"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "K o n s t a n t i n a \u00f0\u009f\u008d\u0093",
+      "timestamp_ms": 1767654477387,
+      "share": {
+        "link": "https://www.instagram.com/stories/konnie_papa/3803480712725459526"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "2310tattoo studio by Christina",
+      "timestamp_ms": 1764785586704,
+      "share": {
+        "link": "https://www.instagram.com/stories/2310tattoo/3779617861921443119"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "K o n s t a n t i n a \u00f0\u009f\u008d\u0093",
+      "timestamp_ms": 1764774934462,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "K o n s t a n t i n a \u00f0\u009f\u008d\u0093",
+  "is_still_participant": true,
+  "thread_path": "inbox/konstantina_1916175813112355",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "participants": [
+    {
+      "name": "Euaggelia Karagkiozoglou"
+    },
+    {
+      "name": "2310tattoo studio by Christina"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "2310tattoo studio by Christina",
+      "timestamp_ms": 1769743626610,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "2310tattoo studio by Christina",
+      "timestamp_ms": 1769743626222,
+      "content": "You messaged euaggelia_karagkiozoglou because they followed your account.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Euaggelia Karagkiozoglou",
+  "is_still_participant": true,
+  "thread_path": "inbox/euaggeliakaragkiozoglou_1943211903741465",
+  "magic_words": [
+    
+  ]
+}

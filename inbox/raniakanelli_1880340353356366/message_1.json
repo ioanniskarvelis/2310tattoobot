@@ -1,0 +1,31 @@
+{
+  "participants": [
+    {
+      "name": "Rania Kanelli"
+    },
+    {
+      "name": "2310tattoo studio by Christina"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "2310tattoo studio by Christina",
+      "timestamp_ms": 1769850126422,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "2310tattoo studio by Christina",
+      "timestamp_ms": 1769850126138,
+      "content": "You messaged raniakanelli because they followed your account.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Rania Kanelli",
+  "is_still_participant": true,
+  "thread_path": "inbox/raniakanelli_1880340353356366",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Christina Papakyriazi\u00f0\u009f\u00a7\u009a\u00f0\u009f\u008f\u00bb\u00e2\u0080\u008d\u00e2\u0099\u0080\u00ef\u00b8\u008f"
+    },
+    {
+      "name": "2310tattoo studio by Christina"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Christina Papakyriazi\u00f0\u009f\u00a7\u009a\u00f0\u009f\u008f\u00bb\u00e2\u0080\u008d\u00e2\u0099\u0080\u00ef\u00b8\u008f",
+      "timestamp_ms": 1765554058217,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "2310tattoo studio by Christina",
+      "timestamp_ms": 1765536839741,
+      "content": "\u00ce\u009c\u00cf\u0080\u00ce\u00bf\u00cf\u0081\u00ce\u00b5\u00ce\u00af\u00cf\u0084\u00ce\u00b5 \u00ce\u00bd\u00ce\u00b1 \u00ce\u00ad\u00cf\u0081\u00ce\u00b8\u00ce\u00b5\u00cf\u0084\u00ce\u00b5 \u00cf\u0087\u00cf\u0089\u00cf\u0081\u00ce\u00af\u00cf\u0082 \u00cf\u0081\u00ce\u00b1\u00ce\u00bd\u00cf\u0084\u00ce\u00b5\u00ce\u00b2\u00ce\u00bf\u00cf\u008d",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Christina Papakyriazi\u00f0\u009f\u00a7\u009a\u00f0\u009f\u008f\u00bb\u00e2\u0080\u008d\u00e2\u0099\u0080\u00ef\u00b8\u008f"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Christina Papakyriazi\u00f0\u009f\u00a7\u009a\u00f0\u009f\u008f\u00bb\u00e2\u0080\u008d\u00e2\u0099\u0080\u00ef\u00b8\u008f",
+      "timestamp_ms": 1765533808203,
+      "content": "\u00ce\u009a\u00ce\u00b1\u00ce\u00bb\u00ce\u00b7\u00cf\u0083\u00cf\u0080\u00ce\u00ad\u00cf\u0081\u00ce\u00b1! \u00ce\u00a4\u00ce\u00b9 \u00ce\u00b5\u00ce\u00af\u00ce\u00bd\u00ce\u00b1\u00ce\u00b9 \u00ce\u00b1\u00cf\u0085\u00cf\u0084\u00cf\u008c ;",
+      "share": {
+        "link": "https://www.instagram.com/stories/2310tattoo/3785890481738414017"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Christina Papakyriazi\u00f0\u009f\u00a7\u009a\u00f0\u009f\u008f\u00bb\u00e2\u0080\u008d\u00e2\u0099\u0080\u00ef\u00b8\u008f",
+  "is_still_participant": true,
+  "thread_path": "inbox/christinapapakyriazi_1846680593400850",
+  "magic_words": [
+    
+  ]
+}

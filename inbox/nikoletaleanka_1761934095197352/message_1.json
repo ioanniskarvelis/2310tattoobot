@@ -1,0 +1,31 @@
+{
+  "participants": [
+    {
+      "name": "Nikoleta Leanka\u00f0\u009f\u0092\u008b"
+    },
+    {
+      "name": "2310tattoo studio by Christina"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "2310tattoo studio by Christina",
+      "timestamp_ms": 1769705046860,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "2310tattoo studio by Christina",
+      "timestamp_ms": 1769705046735,
+      "content": "You messaged nikoletaa_lnk because they followed your account.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Nikoleta Leanka\u00f0\u009f\u0092\u008b",
+  "is_still_participant": true,
+  "thread_path": "inbox/nikoletaleanka_1761934095197352",
+  "magic_words": [
+    
+  ]
+}

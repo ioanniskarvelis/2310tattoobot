@@ -1,0 +1,59 @@
+{
+  "participants": [
+    {
+      "name": "Mandy Brooks"
+    },
+    {
+      "name": "2310tattoo studio by Christina"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "2310tattoo studio by Christina",
+      "timestamp_ms": 1767541339552,
+      "content": "Happy new year \u00f0\u009f\u0099\u008f\u00f0\u009f\u0099\u008f\u00f0\u009f\u0099\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mandy Brooks",
+      "timestamp_ms": 1767541295285,
+      "content": "It\u00e2\u0080\u0099s okay am back in Norway now, maybe will visit next time! Kala chronia \u00f0\u009f\u00a5\u00b3",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0090\u00bc",
+          "actor": "2310tattoo studio by Christina"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "2310tattoo studio by Christina",
+      "timestamp_ms": 1767540243243,
+      "content": "Can you come tomorrow?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "2310tattoo studio by Christina",
+      "timestamp_ms": 1767540232723,
+      "content": "Hello so sorry for the delay",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mandy Brooks",
+      "timestamp_ms": 1767335891560,
+      "content": "Hi there, am looking for an appointment for a fine line tattoo in my ear - are you open today?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Mandy Brooks",
+  "is_still_participant": true,
+  "thread_path": "inbox/mandybrooks_1382710546694411",
+  "magic_words": [
+    
+  ]
+}

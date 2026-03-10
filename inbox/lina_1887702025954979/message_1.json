@@ -1,0 +1,31 @@
+{
+  "participants": [
+    {
+      "name": "\u00ce\u009b \u00ce\u0099 \u00ce\u009d \u00ce\u0091"
+    },
+    {
+      "name": "2310tattoo studio by Christina"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "2310tattoo studio by Christina",
+      "timestamp_ms": 1769784288249,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "2310tattoo studio by Christina",
+      "timestamp_ms": 1769784287668,
+      "content": "You messaged _linaant_ because they followed your account.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "\u00ce\u009b \u00ce\u0099 \u00ce\u009d \u00ce\u0091",
+  "is_still_participant": true,
+  "thread_path": "inbox/lina_1887702025954979",
+  "magic_words": [
+    
+  ]
+}

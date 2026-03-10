@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "y44nni"
+    },
+    {
+      "name": "2310tattoo studio by Christina"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "2310tattoo studio by Christina",
+      "timestamp_ms": 1769379276046,
+      "content": "\u00ce\u009a\u00ce\u00b1\u00ce\u00bb\u00ce\u00b7\u00cf\u0083\u00cf\u0080\u00ce\u00ad\u00cf\u0081\u00ce\u00b1 \u00ce\u00b4\u00cf\u0085\u00cf\u0083\u00cf\u0084\u00cf\u0085\u00cf\u0087\u00cf\u008e\u00cf\u0082 \u00ce\u00b4\u00ce\u00b5\u00ce\u00bd \u00ce\u00b1\u00ce\u00bd\u00ce\u00b1\u00ce\u00bb\u00ce\u00b1\u00ce\u00bc\u00ce\u00b2\u00ce\u00ac\u00ce\u00bd\u00ce\u00bf\u00cf\u0085\u00ce\u00bc\u00ce\u00b5",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "y44nni",
+      "timestamp_ms": 1769363011304,
+      "content": "\u00ce\u009a\u00ce\u00b1\u00ce\u00bb\u00ce\u00b7\u00cf\u0083\u00cf\u0080\u00ce\u00ad\u00cf\u0081\u00ce\u00b1 \u00ce\u00ba\u00ce\u00b1\u00ce\u00bd\u00ce\u00b5\u00cf\u0084\u00ce\u00b5 white ink tattoos?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "y44nni",
+  "is_still_participant": true,
+  "thread_path": "inbox/y44nni_1779941893400591",
+  "magic_words": [
+    
+  ]
+}

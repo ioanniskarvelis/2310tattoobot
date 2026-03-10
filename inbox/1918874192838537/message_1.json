@@ -1,0 +1,31 @@
+{
+  "participants": [
+    {
+      "name": "\u00e2\u0098\u00a6"
+    },
+    {
+      "name": "2310tattoo studio by Christina"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "2310tattoo studio by Christina",
+      "timestamp_ms": 1769953406699,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "2310tattoo studio by Christina",
+      "timestamp_ms": 1769953406358,
+      "content": "You messaged __skendz1c because they followed your account.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "\u00e2\u0098\u00a6",
+  "is_still_participant": true,
+  "thread_path": "inbox/1918874192838537",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "jim_exc"
+    },
+    {
+      "name": "2310tattoo studio by Christina"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "2310tattoo studio by Christina",
+      "timestamp_ms": 1771271324955,
+      "content": "\u00ce\u009a\u00ce\u00b1\u00ce\u00bb\u00ce\u00b7\u00cf\u0083\u00cf\u0080\u00ce\u00ad\u00cf\u0081\u00ce\u00b1 \u00cf\u008c\u00cf\u0087\u00ce\u00b9 \u00ce\u00b4\u00ce\u00b5\u00ce\u00bd \u00ce\u00ba\u00ce\u00ac\u00ce\u00bd\u00ce\u00bf\u00cf\u0085\u00ce\u00bc\u00ce\u00b5",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "jim_exc",
+      "timestamp_ms": 1771269787400,
+      "content": "\u00ce\u009a\u00ce\u00b1\u00ce\u00bb\u00ce\u00b7\u00cf\u0083\u00cf\u0080\u00ce\u00b5\u00cf\u0081\u00ce\u00b1 . \u00ce\u0098\u00ce\u00b1 \u00ce\u00b7\u00ce\u00b8\u00ce\u00b5\u00ce\u00bb\u00ce\u00b1 \u00ce\u00bd\u00ce\u00b1 \u00cf\u0081\u00cf\u0089\u00cf\u0084\u00ce\u00b7\u00cf\u0083\u00cf\u0089 \u00ce\u00b1\u00ce\u00bd \u00ce\u00ba\u00ce\u00b1\u00ce\u00bd\u00ce\u00b5\u00cf\u0084\u00ce\u00b5 tattoo \u00cf\u0083\u00ce\u00b5 \u00ce\u00b3\u00ce\u00b5\u00ce\u00bd\u00ce\u00bd\u00ce\u00b7\u00cf\u0084\u00ce\u00b9\u00ce\u00ba\u00ce\u00b1 \u00ce\u00bf\u00cf\u0081\u00ce\u00b3\u00ce\u00b1\u00ce\u00bd\u00ce\u00b1",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "jim_exc",
+  "is_still_participant": true,
+  "thread_path": "inbox/jim_exc_1852859464913843",
+  "magic_words": [
+    
+  ]
+}

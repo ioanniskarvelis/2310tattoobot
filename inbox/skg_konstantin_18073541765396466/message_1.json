@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "skg_konstantin"
+    },
+    {
+      "name": "2310tattoo studio by Christina"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "skg_konstantin",
+      "timestamp_ms": 1771505167303,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/skg_konstantin_18073541765396466/photos/25755280630821620.jpg",
+          "creation_timestamp": 1771505164
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "skg_konstantin",
+  "is_still_participant": true,
+  "thread_path": "inbox/skg_konstantin_18073541765396466",
+  "magic_words": [
+    
+  ]
+}

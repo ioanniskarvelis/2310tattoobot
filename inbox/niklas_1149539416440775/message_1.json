@@ -1,0 +1,138 @@
+{
+  "participants": [
+    {
+      "name": "Niklas"
+    },
+    {
+      "name": "2310tattoo studio by Christina"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Niklas",
+      "timestamp_ms": 1763059618608,
+      "content": "Don\u00e2\u0080\u0099t worry about it! We will be back to get more tattoos, thank you so much \u00f0\u009f\u0098\u008a",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0090\u00bc",
+          "actor": "2310tattoo studio by Christina"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Niklas",
+      "timestamp_ms": 1763059617729,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "2310tattoo studio by Christina",
+      "timestamp_ms": 1763042386978,
+      "content": "Sorry for the trouble with Revolut, and thank you so much for your patience. Whenever you\u00e2\u0080\u0099re back in Greece, we\u00e2\u0080\u0099d be truly happy to see you again.\nWith appreciation. \u00f0\u009f\u0096\u00a4\u00f0\u009f\u0090\u00bc",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Niklas"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Niklas",
+      "timestamp_ms": 1763027941397,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/niklas_1149539416440775/photos/1346491676850572.jpg",
+          "creation_timestamp": 1763027940
+        },
+        {
+          "uri": "your_instagram_activity/messages/inbox/niklas_1149539416440775/photos/812007668311686.jpg",
+          "creation_timestamp": 1763027940
+        },
+        {
+          "uri": "your_instagram_activity/messages/inbox/niklas_1149539416440775/photos/1241763988002280.jpg",
+          "creation_timestamp": 1763027940
+        },
+        {
+          "uri": "your_instagram_activity/messages/inbox/niklas_1149539416440775/photos/1360568598798024.jpg",
+          "creation_timestamp": 1763027940
+        },
+        {
+          "uri": "your_instagram_activity/messages/inbox/niklas_1149539416440775/photos/1362016889046255.jpg",
+          "creation_timestamp": 1763027940
+        },
+        {
+          "uri": "your_instagram_activity/messages/inbox/niklas_1149539416440775/photos/816853137723565.jpg",
+          "creation_timestamp": 1763027940
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Niklas",
+      "timestamp_ms": 1762845695179,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Niklas",
+      "timestamp_ms": 1762845693893,
+      "content": "Okay \u00f0\u009f\u0098\u0081",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "2310tattoo studio by Christina",
+      "timestamp_ms": 1762800415579,
+      "content": "Ok come Thursday at 12:00 \u00f0\u009f\u0096\u00a4\u00f0\u009f\u0090\u00bc",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Niklas"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Niklas",
+      "timestamp_ms": 1762750497385,
+      "content": "Awesome \u00f0\u009f\u0098\u008d\nMaybe Thursday is better because we have time the whole day if that\u00e2\u0080\u0099s okay :D we could be there earlier or whenever you like",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "2310tattoo studio by Christina",
+      "timestamp_ms": 1762711174550,
+      "content": "Thursday or Wednesday what time you can come ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "2310tattoo studio by Christina",
+      "timestamp_ms": 1762711142240,
+      "content": "Hello yes we can do it \u00f0\u009f\u0098\u008d\u00f0\u009f\u0090\u00bc",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Niklas",
+      "timestamp_ms": 1762595301206,
+      "content": "Hellooo\nMy mother and I are in Thessaloniki again, do you maybe have time this Thursday? (Or Wednesday, depending on how long you are open because we are coming from Volos/Larisa in the afternoon)\n\nI can also send you the motives in advance if you want to see first! Thanks :D",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Niklas",
+  "is_still_participant": true,
+  "thread_path": "inbox/niklas_1149539416440775",
+  "magic_words": [
+    
+  ]
+}

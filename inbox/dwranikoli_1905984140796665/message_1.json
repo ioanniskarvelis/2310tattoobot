@@ -1,0 +1,31 @@
+{
+  "participants": [
+    {
+      "name": "Dwra Nikoli"
+    },
+    {
+      "name": "2310tattoo studio by Christina"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "2310tattoo studio by Christina",
+      "timestamp_ms": 1769758822507,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "2310tattoo studio by Christina",
+      "timestamp_ms": 1769758822210,
+      "content": "You messaged dwra_nikoli because they followed your account.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Dwra Nikoli",
+  "is_still_participant": true,
+  "thread_path": "inbox/dwranikoli_1905984140796665",
+  "magic_words": [
+    
+  ]
+}

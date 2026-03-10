@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Nektarios T"
+    },
+    {
+      "name": "2310tattoo studio by Christina"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Nektarios T",
+      "timestamp_ms": 1767687563726,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "share": {
+        "link": "https://www.instagram.com/stories/2310tattoo/3803684226688920587"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Nektarios T",
+  "is_still_participant": true,
+  "thread_path": "inbox/nektariost_1849268349798497",
+  "magic_words": [
+    
+  ]
+}

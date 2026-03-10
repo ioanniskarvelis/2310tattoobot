@@ -1,0 +1,31 @@
+{
+  "participants": [
+    {
+      "name": "Anna Triantafyllou"
+    },
+    {
+      "name": "2310tattoo studio by Christina"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "2310tattoo studio by Christina",
+      "timestamp_ms": 1769678163516,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "2310tattoo studio by Christina",
+      "timestamp_ms": 1769678162772,
+      "content": "You messaged anna__triantafyllou because they followed your account.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Anna Triantafyllou",
+  "is_still_participant": true,
+  "thread_path": "inbox/annatriantafyllou_1953423102723370",
+  "magic_words": [
+    
+  ]
+}

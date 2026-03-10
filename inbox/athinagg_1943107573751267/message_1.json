@@ -1,0 +1,31 @@
+{
+  "participants": [
+    {
+      "name": "Athina GG"
+    },
+    {
+      "name": "2310tattoo studio by Christina"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "2310tattoo studio by Christina",
+      "timestamp_ms": 1769753779062,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "2310tattoo studio by Christina",
+      "timestamp_ms": 1769753778780,
+      "content": "You messaged athina__gg because they followed your account.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Athina GG",
+  "is_still_participant": true,
+  "thread_path": "inbox/athinagg_1943107573751267",
+  "magic_words": [
+    
+  ]
+}

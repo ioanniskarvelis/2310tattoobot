@@ -1,0 +1,51 @@
+{
+  "participants": [
+    {
+      "name": "giannisp"
+    },
+    {
+      "name": "2310tattoo studio by Christina"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "giannisp",
+      "timestamp_ms": 1757024342186,
+      "content": "\u00ce\u0095\u00cf\u0085\u00cf\u0087\u00ce\u00b1\u00cf\u0081\u00ce\u00b9\u00cf\u0083\u00cf\u0084\u00cf\u008e \u00cf\u0080\u00ce\u00bf\u00ce\u00bb\u00cf\u008d",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0090\u00bc",
+          "actor": "2310tattoo studio by Christina"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "giannisp",
+      "timestamp_ms": 1757024338851,
+      "content": "\u00ce\u009f\u00ce\u00ba",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0090\u00bc",
+          "actor": "2310tattoo studio by Christina"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "2310tattoo studio by Christina",
+      "timestamp_ms": 1757024326575,
+      "content": "\u00ce\u009a\u00ce\u00b1\u00ce\u00bb\u00ce\u00b7\u00cf\u0083\u00cf\u0080\u00ce\u00ad\u00cf\u0081\u00ce\u00b1 \u00ce\u00bd\u00ce\u00b1\u00ce\u00b9 \u00ce\u00b5\u00ce\u00bb\u00ce\u00ac\u00cf\u0084\u00ce\u00b5 \u00ce\u00b1\u00cf\u008d\u00cf\u0081\u00ce\u00b9\u00ce\u00bf 14:00",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "giannisp",
+  "is_still_participant": true,
+  "thread_path": "inbox/giannisp_1296531151743003",
+  "magic_words": [
+    
+  ]
+}

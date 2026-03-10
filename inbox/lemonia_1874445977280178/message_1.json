@@ -1,0 +1,31 @@
+{
+  "participants": [
+    {
+      "name": "lemonia"
+    },
+    {
+      "name": "2310tattoo studio by Christina"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "2310tattoo studio by Christina",
+      "timestamp_ms": 1769758157070,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "2310tattoo studio by Christina",
+      "timestamp_ms": 1769758156616,
+      "content": "You messaged lemoniaa.p because they followed your account.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "lemonia",
+  "is_still_participant": true,
+  "thread_path": "inbox/lemonia_1874445977280178",
+  "magic_words": [
+    
+  ]
+}

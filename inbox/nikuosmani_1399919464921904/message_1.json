@@ -1,0 +1,31 @@
+{
+  "participants": [
+    {
+      "name": "Niku Osmani"
+    },
+    {
+      "name": "2310tattoo studio by Christina"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "2310tattoo studio by Christina",
+      "timestamp_ms": 1769959555373,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "2310tattoo studio by Christina",
+      "timestamp_ms": 1769959555042,
+      "content": "You messaged niku.osmani because they followed your account.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Niku Osmani",
+  "is_still_participant": true,
+  "thread_path": "inbox/nikuosmani_1399919464921904",
+  "magic_words": [
+    
+  ]
+}

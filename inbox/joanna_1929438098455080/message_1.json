@@ -1,0 +1,31 @@
+{
+  "participants": [
+    {
+      "name": "\u00f0\u009d\u0090\u00bd\u00f0\u009d\u0091\u009c\u00f0\u009d\u0091\u008e\u00f0\u009d\u0091\u009b\u00f0\u009d\u0091\u009b\u00f0\u009d\u0091\u008e"
+    },
+    {
+      "name": "2310tattoo studio by Christina"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "2310tattoo studio by Christina",
+      "timestamp_ms": 1769876893520,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "2310tattoo studio by Christina",
+      "timestamp_ms": 1769876893170,
+      "content": "You messaged ioanna_patsianidou because they followed your account.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "\u00f0\u009d\u0090\u00bd\u00f0\u009d\u0091\u009c\u00f0\u009d\u0091\u008e\u00f0\u009d\u0091\u009b\u00f0\u009d\u0091\u009b\u00f0\u009d\u0091\u008e",
+  "is_still_participant": true,
+  "thread_path": "inbox/joanna_1929438098455080",
+  "magic_words": [
+    
+  ]
+}

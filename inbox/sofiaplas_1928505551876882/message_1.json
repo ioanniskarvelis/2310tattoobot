@@ -1,0 +1,31 @@
+{
+  "participants": [
+    {
+      "name": "Sofia Plas"
+    },
+    {
+      "name": "2310tattoo studio by Christina"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "2310tattoo studio by Christina",
+      "timestamp_ms": 1769711752726,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "2310tattoo studio by Christina",
+      "timestamp_ms": 1769711752435,
+      "content": "You messaged sofaki_plas because they followed your account.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Sofia Plas",
+  "is_still_participant": true,
+  "thread_path": "inbox/sofiaplas_1928505551876882",
+  "magic_words": [
+    
+  ]
+}

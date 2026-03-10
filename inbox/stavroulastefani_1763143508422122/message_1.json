@@ -1,0 +1,27 @@
+{
+  "participants": [
+    {
+      "name": "Stavroula Stefani"
+    },
+    {
+      "name": "2310tattoo studio by Christina"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Stavroula Stefani",
+      "timestamp_ms": 1761508618253,
+      "share": {
+        "link": "https://www.instagram.com/stories/2310tattoo/3752088735732077089"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Stavroula Stefani",
+  "is_still_participant": true,
+  "thread_path": "inbox/stavroulastefani_1763143508422122",
+  "magic_words": [
+    
+  ]
+}

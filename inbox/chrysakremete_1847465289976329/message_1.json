@@ -1,0 +1,44 @@
+{
+  "participants": [
+    {
+      "name": "\u00ce\u00a7\u00cf\u0081\u00cf\u008d\u00cf\u0083\u00ce\u00b1 \u00ce\u009a\u00cf\u0081\u00ce\u00b5\u00ce\u00bc\u00ce\u00ad\u00cf\u0084\u00ce\u00b7"
+    },
+    {
+      "name": "2310tattoo studio by Christina"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "\u00ce\u00a7\u00cf\u0081\u00cf\u008d\u00cf\u0083\u00ce\u00b1 \u00ce\u009a\u00cf\u0081\u00ce\u00b5\u00ce\u00bc\u00ce\u00ad\u00cf\u0084\u00ce\u00b7",
+      "timestamp_ms": 1769863521919,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "2310tattoo studio by Christina",
+      "timestamp_ms": 1769863485478,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "\u00ce\u00a7\u00cf\u0081\u00cf\u008d\u00cf\u0083\u00ce\u00b1 \u00ce\u009a\u00cf\u0081\u00ce\u00b5\u00ce\u00bc\u00ce\u00ad\u00cf\u0084\u00ce\u00b7"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "2310tattoo studio by Christina",
+      "timestamp_ms": 1769863484997,
+      "content": "You messaged xrysaaak because they followed your account.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "\u00ce\u00a7\u00cf\u0081\u00cf\u008d\u00cf\u0083\u00ce\u00b1 \u00ce\u009a\u00cf\u0081\u00ce\u00b5\u00ce\u00bc\u00ce\u00ad\u00cf\u0084\u00ce\u00b7",
+  "is_still_participant": true,
+  "thread_path": "inbox/chrysakremete_1847465289976329",
+  "magic_words": [
+    
+  ]
+}

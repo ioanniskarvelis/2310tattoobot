@@ -1,0 +1,31 @@
+{
+  "participants": [
+    {
+      "name": "Thanos Keramidas"
+    },
+    {
+      "name": "2310tattoo studio by Christina"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "2310tattoo studio by Christina",
+      "timestamp_ms": 1769966052599,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "2310tattoo studio by Christina",
+      "timestamp_ms": 1769966052235,
+      "content": "You messaged thanoskeramidas because they followed your account.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Thanos Keramidas",
+  "is_still_participant": true,
+  "thread_path": "inbox/thanoskeramidas_1917905376268758",
+  "magic_words": [
+    
+  ]
+}

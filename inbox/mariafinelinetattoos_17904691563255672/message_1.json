@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "\u00e2\u0080\u00a2Maria{Fineline Tattoos}"
+    },
+    {
+      "name": "2310tattoo studio by Christina"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "\u00e2\u0080\u00a2Maria{Fineline Tattoos}",
+      "timestamp_ms": 1768914842568,
+      "share": {
+        "link": "https://www.instagram.com/stories/_mar.tatts/3814256590963122262"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00e2\u0080\u00a2Maria{Fineline Tattoos}",
+      "timestamp_ms": 1767995214854,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00e2\u0080\u00a2Maria{Fineline Tattoos}",
+      "timestamp_ms": 1767800891166,
+      "share": {
+        "link": "https://www.instagram.com/stories/_mar.tatts/3804912082903401380"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "\u00e2\u0080\u00a2Maria{Fineline Tattoos}",
+  "is_still_participant": true,
+  "thread_path": "inbox/mariafinelinetattoos_17904691563255672",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "\u00f0\u009d\u0090\u0099\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u009c\u00f0\u009d\u0090\u00a1\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u00a2a\u00f0\u009d\u0090\u00ac \u00f0\u009d\u0090\u008f\u00f0\u009d\u0090\u00ac.\u00f0\u009f\u00a6\u0088"
+    },
+    {
+      "name": "2310tattoo studio by Christina"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "\u00f0\u009d\u0090\u0099\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u009c\u00f0\u009d\u0090\u00a1\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u00a2a\u00f0\u009d\u0090\u00ac \u00f0\u009d\u0090\u008f\u00f0\u009d\u0090\u00ac.\u00f0\u009f\u00a6\u0088",
+      "timestamp_ms": 1765371081208,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/zachariasps_1380078433378578/photos/24966897219677317.png",
+          "creation_timestamp": 1765371079
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "\u00f0\u009d\u0090\u0099\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u009c\u00f0\u009d\u0090\u00a1\u00f0\u009d\u0090\u009a\u00f0\u009d\u0090\u00ab\u00f0\u009d\u0090\u00a2a\u00f0\u009d\u0090\u00ac \u00f0\u009d\u0090\u008f\u00f0\u009d\u0090\u00ac.\u00f0\u009f\u00a6\u0088",
+  "is_still_participant": true,
+  "thread_path": "inbox/zachariasps_1380078433378578",
+  "magic_words": [
+    
+  ]
+}

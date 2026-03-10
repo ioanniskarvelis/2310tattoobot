@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "tatiii \u00e0\u00ab\u0090"
+    },
+    {
+      "name": "2310tattoo studio by Christina"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "2310tattoo studio by Christina",
+      "timestamp_ms": 1758728194183,
+      "content": "\u00cf\u0083\u00cf\u008d\u00ce\u00bd\u00ce\u00bf\u00ce\u00bb\u00ce\u00bf \u00ce\u00b5\u00ce\u00bd\u00ce\u00b4\u00ce\u00b5\u00ce\u00b9\u00ce\u00ba\u00cf\u0084\u00ce\u00b9\u00ce\u00ba\u00ce\u00ac \u00cf\u0083\u00cf\u0084\u00ce\u00b1 340-360 \u00ce\u00bd\u00ce\u00b1 \u00cf\u0085\u00cf\u0080\u00ce\u00bf\u00ce\u00bb\u00ce\u00bf\u00ce\u00b3\u00ce\u00af\u00ce\u00b6\u00ce\u00b5\u00cf\u0084\u00ce\u00b5 \u00f0\u009f\u0096\u00a4\u00f0\u009f\u0090\u00bc",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "tatiii \u00e0\u00ab\u0090",
+      "timestamp_ms": 1758705432130,
+      "content": "\u00ce\u0093\u00cf\u0081\u00ce\u00b1\u00ce\u00bc\u00ce\u00bc\u00ce\u00ae \u00cf\u008c\u00ce\u00bb\u00ce\u00bf \u00cf\u0084\u00ce\u00bf \u00cf\u0083\u00cf\u008e\u00ce\u00bc\u00ce\u00b1",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "tatiii \u00e0\u00ab\u0090",
+  "is_still_participant": true,
+  "thread_path": "inbox/tatiiiom_17848707306335613",
+  "magic_words": [
+    
+  ]
+}

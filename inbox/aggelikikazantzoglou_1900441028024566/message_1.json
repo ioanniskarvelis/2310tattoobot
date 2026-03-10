@@ -1,0 +1,31 @@
+{
+  "participants": [
+    {
+      "name": "Aggeliki Kazantzoglou"
+    },
+    {
+      "name": "2310tattoo studio by Christina"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "2310tattoo studio by Christina",
+      "timestamp_ms": 1769710068433,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "2310tattoo studio by Christina",
+      "timestamp_ms": 1769710068110,
+      "content": "You messaged kazantzoglou___ because they followed your account.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Aggeliki Kazantzoglou",
+  "is_still_participant": true,
+  "thread_path": "inbox/aggelikikazantzoglou_1900441028024566",
+  "magic_words": [
+    
+  ]
+}
