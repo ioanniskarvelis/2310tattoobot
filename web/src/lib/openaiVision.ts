@@ -65,6 +65,14 @@ export async function analyzeTattooWithOpenAI(
   const sizeCat = String(natural?.natural_size_category ?? "medium");
   const thicknessCat = String(line?.line_thickness_category ?? "medium");
 
+  // Fix #1: use != null check so score of 0 is preserved (not replaced with fallback 50)
+  const effortRaw = parsed?.tattoo_effort_score;
+  const effortScore = effortRaw != null ? Number(effortRaw) : 50;
+
+  // Fix #2: normalize overall_confidence to 0-1 (old DB records may be 0-100 integers)
+  const confRaw = Number(qc?.overall_confidence ?? parsed?.overall_confidence) || 0;
+  const overallConf = confRaw > 1 ? confRaw / 100 : confRaw;
+
   const features: TattooFeatures = {
     color_present: Boolean(ink?.color_present),
     natural_size_category: (SIZE_CATEGORIES as readonly string[]).includes(sizeCat)
@@ -73,7 +81,7 @@ export async function analyzeTattooWithOpenAI(
     width_dominant: Boolean(natural?.width_dominant),
     category_primary: (style?.category_primary as string) ?? "other",
     category_secondary: (style?.category_secondary as string | null) ?? null,
-    tattoo_effort_score: Number(parsed?.tattoo_effort_score) || 50,
+    tattoo_effort_score: effortScore,
     fill_density_per_area: Number(fillShading?.fill_density_per_area) || 0,
     shading_density_per_area: Number(fillShading?.shading_density_per_area) || 0,
     shading_scalability_score: Number(fillShading?.shading_scalability_score) || 0,
@@ -86,7 +94,7 @@ export async function analyzeTattooWithOpenAI(
       : "medium",
     has_text: Boolean(text?.has_text),
     has_decorative_script: Boolean(text?.has_decorative_script),
-    overall_confidence: Number(qc?.overall_confidence ?? parsed?.overall_confidence) || 0,
+    overall_confidence: overallConf,
   };
 
   return { features, vision_analysis: parsed };

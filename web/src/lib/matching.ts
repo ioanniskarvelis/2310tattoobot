@@ -95,10 +95,16 @@ function sizeIndex(record: TattooFeatures): number {
 
 // Slight penalty for lower-confidence DB records
 function confidencePenalty(record: TattooFeatures): number {
-  const conf = safeGet<number>(record, "overall_confidence", 1);
+  const conf = normalizeConf(record);
   if (conf >= 0.8) return 1.0;
   if (conf >= 0.6) return 0.93;
   return 0.82;
+}
+
+// Normalize confidence to 0-1 scale (DB has mixed: some 0-1 decimal, some 0-100 integer)
+function normalizeConf(record: TattooFeatures): number {
+  const c = safeGet<number>(record, "overall_confidence", 1);
+  return c > 1 ? c / 100 : c;
 }
 
 // ─── Hard Filter ─────────────────────────────────────────────────────────────
@@ -107,7 +113,7 @@ function confidencePenalty(record: TattooFeatures): number {
 
 export function hardFilter(newTattoo: TattooFeatures, dbTattoo: TattooFeatures): boolean {
   // Confidence too low — useless record
-  if (safeGet(dbTattoo, "overall_confidence", 1) < 0.45) return false;
+  if (normalizeConf(dbTattoo) < 0.45) return false;
 
   // Size: allow up to 2 steps difference (was 1)
   if (Math.abs(sizeIndex(newTattoo) - sizeIndex(dbTattoo)) > 2) return false;
@@ -146,12 +152,11 @@ export function similarityScore(newTattoo: TattooFeatures, dbTattoo: TattooFeatu
   const effortSim     = norm(newTattoo.tattoo_effort_score,      dbTattoo.tattoo_effort_score);
 
   const complexityScore =
-    effortSim       * 0.35 +
-    microSim        * 0.25 +
-    fillSim         * 0.15 +
-    shadingSim      * 0.15 +
-    textureSim      * 0.05 +
-    scalabilitySim  * 0.05;
+    microSim        * 0.35 +
+    fillSim         * 0.25 +
+    shadingSim      * 0.20 +
+    textureSim      * 0.10 +
+    scalabilitySim  * 0.10;
 
   // ── 2. Size (25%) ──
   const sizeDiff  = Math.abs(sizeIndex(newTattoo) - sizeIndex(dbTattoo));
@@ -233,7 +238,7 @@ export function getTopMatches(
     candidates.length >= 5
       ? candidates
       : database.filter((r) => {
-          if (safeGet(r, "overall_confidence", 1) < 0.45) return false;
+          if (normalizeConf(r) < 0.45) return false;
           const effortDiff = Math.abs(
             safeGet(newTattoo, "tattoo_effort_score", 50) - safeGet(r, "tattoo_effort_score", 50)
           );
@@ -258,7 +263,7 @@ export function getTopMatches(
   );
   if (filtered.length < 3) filtered = scored;
 
-  return filtered.slice(0, 10);
+  return filtered.slice(0, n);
 }
 
 // ─── Price Calculation ───────────────────────────────────────────────────────
@@ -297,11 +302,20 @@ export function calculatePrice(
     };
   }
 
+  // Trimmed mean: remove bottom 20% and top 20% by price to eliminate outliers
+  const sortedByPrice = [...usable].sort(
+    (a, b) => (a.record.final_price ?? 0) - (b.record.final_price ?? 0)
+  );
+  const trimCount = Math.floor(sortedByPrice.length * 0.2);
+  const finalPool = sortedByPrice.length >= 6
+    ? sortedByPrice.slice(trimCount, sortedByPrice.length - trimCount)
+    : usable;
+
   // Weighted average (similarity³ gives more weight to best matches)
-  const weights     = usable.map((m) => Math.pow(m.similarity, 3));
+  const weights     = finalPool.map((m) => Math.pow(m.similarity, 3));
   const totalWeight = weights.reduce((a, w) => a + w, 0);
   let weightedPrice =
-    usable.reduce((acc, m, i) => acc + (m.record.final_price ?? 0) * weights[i], 0) / totalWeight;
+    finalPool.reduce((acc, m, i) => acc + (m.record.final_price ?? 0) * weights[i], 0) / totalWeight;
 
   // Color adjustment: if new tattoo is color but DB matches are B&W (or vice versa),
   // apply a price correction since color is always more expensive.
@@ -320,7 +334,7 @@ export function calculatePrice(
   }
 
   // Confidence based on top similarity score
-  const topScore = usable[0].similarity;
+  const topScore = Math.max(...usable.map((m) => m.similarity));
   let confidence: PriceSuggestion["confidence"];
   let spread: number;
 

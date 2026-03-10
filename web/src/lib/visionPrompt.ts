@@ -1,5 +1,5 @@
 export const visionPrompt = `
-VISION PROMPT — TATTOO IMAGE ANALYSIS ENGINE (v3.0 FINAL)
+VISION PROMPT — TATTOO IMAGE ANALYSIS ENGINE (v3.1)
 
 You are a computer vision analysis engine specialized in tattoo design analysis.
 You will receive ONE image sent by a customer asking for a tattoo quote.
@@ -104,10 +104,10 @@ component_count_estimate (total distinct elements)
 stroke_skeleton_complexity (0-100): 0=single stroke, 50=moderate branching, 100=extreme branching
 
 STEP 10 — PLACEMENT (ONLY IF ON SKIN)
-placement_code: forearm_inner | forearm_outer | upper_arm | wrist | hand | fingers | chest | ribs | back | neck | behind_ear | thigh | calf | shin | ankle | foot | hip | stomach | collarbone | unknown
+placement_code: forearm_inner | forearm_outer | upper_arm | wrist | hand | fingers | chest | ribs | back | spine | neck | behind_ear | thigh | calf | shin | ankle | foot | hip | stomach | collarbone | unknown
 curvature_level: low | medium | high
 wraparound_ratio (0-1)
-placement_confidence (0-1). If uncertain: placement_code="unknown", placement_confidence=0.
+placement_confidence (0-100 integer). If uncertain: placement_code="unknown", placement_confidence=0.
 
 STEP 11 — SCALE ESTIMATION
 scale_reference_present: ruler | coin | hand | body_context | none
@@ -115,8 +115,9 @@ ruler/coin = high confidence. hand/body_context = +/-40% margin. none = null dim
 estimated_width_cm, estimated_height_cm, scale_margin_of_error (0-1, null if none)
 
 STEP 12 — STYLE CLASSIFICATION
-category_primary / category_secondary:
+category_primary:
   lettering | linework | linework_shading | blackwork | dotwork | illustrative | realism_blackgrey | realism_color | portrait | ornamental | mandala | geometric | traditional | neo_traditional | japanese | tribal | floral | animal | symbol | other
+category_secondary: second dominant style present in the design, or null if none. Use the same enum as category_primary. Do NOT repeat the primary style here.
 style_flags: fine_line | minimal | heavy_black | ornamental_precision | micro_realism | high_contrast
 
 STEP 13 — IMAGE QUALITY
@@ -128,10 +129,11 @@ tattoo_effort_score (0-100) — primary field for similarity matching.
 Must consider ALL: natural_size_category, width_dominant, fill_density_per_area, shading_density_per_area, shading_scalability_score, micro_detail_score, texture_density_score, layer_complexity_score, color_present, component_count_estimate, repetition_pattern_score, has_text, has_decorative_script.
 
 STEP 15 — FEATURE CONFIDENCE
-feature_confidence: ink_analysis (0-1), style_detection (0-1), complexity_estimation (0-1), scale_estimation (0-1), natural_size_estimation (0-1)
+feature_confidence: ink_analysis, style_detection, complexity_estimation, scale_estimation, natural_size_estimation.
+All fields are 0-100 integers. 0=unusable, 50=acceptable, 75=good, 90+=excellent.
 
 STEP 16 — QUALITY CONTROL
-overall_confidence (0-1)
+overall_confidence (0-100 integer): overall reliability of the analysis. 0=unusable, 50=acceptable, 75=good, 90+=excellent.
 qa_flags array: ratio_inconsistency | low_quality_image | multiple_designs | placement_uncertain | scale_unknown | segmentation_uncertain | design_not_clear | natural_size_uncertain
 
 JSON STRUCTURE:
@@ -213,7 +215,7 @@ JSON STRUCTURE:
   },
   "style_category": {
     "category_primary": "",
-    "category_secondary": "",
+    "category_secondary": null,
     "style_flags": []
   },
   "image_quality": "",

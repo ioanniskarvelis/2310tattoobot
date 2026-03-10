@@ -30,8 +30,8 @@ export async function POST(request: Request) {
       );
     }
 
-    const matches = getTopMatches(newTattooFeatures, database, 15);
-    const pricing = calculatePrice(matches);
+    const matches = getTopMatches(newTattooFeatures, database, 30);
+    const pricing = calculatePrice(matches, newTattooFeatures);
     const topMatches = matches.slice(0, 5).map((m) => {
       const record = m.record as TattooRecord;
       return {

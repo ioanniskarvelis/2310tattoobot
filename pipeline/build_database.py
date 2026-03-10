@@ -82,6 +82,9 @@ def should_skip_vision_result(vision: dict[str, Any]) -> str | None:
         return "not_a_tattoo_reference"
 
     overall_conf = deep_get(vision, ["quality_control", "overall_confidence"], 1.0)
+    # Normalize: new prompt returns 0-100 integer, old prompt returned 0-1 decimal
+    if overall_conf > 1:
+        overall_conf = overall_conf / 100
     if overall_conf < 0.50:
         return "low_confidence"
 
