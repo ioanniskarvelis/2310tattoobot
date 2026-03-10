@@ -16,5 +16,5 @@ export function toThumbnailUrl(recordId?: string): string | null {
   if (!recordId) {
     return null;
   }
-  return `/api/image?id=${encodeURIComponent(recordId)}`;
+  return `/images/${recordId}.jpg`;
 }
